@@ -5,11 +5,11 @@
 ## Стек технологий:
 
 - Python 3
+- Django 2.2
 - Django REST framework
 - Docker
 - Gunicorn
 - nginx
-- Django 2.2
 - PostgreSQL
 - Git
 
